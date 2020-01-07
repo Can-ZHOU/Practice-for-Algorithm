@@ -10,13 +10,17 @@ public class Test02 {
 	}
 	
 	public static void main(String[] args) {
-		ListNode input = new ListNode(3);
-		input.next = new ListNode(2);
-		input.next.next = new ListNode(0);
-		input.next.next.next = new ListNode(-4);
-		input.next.next.next.next = input.next;
-		ListNode res = detectCycle(input);
-		System.out.println(res.val);
+//		ListNode input = new ListNode(3);
+//		input.next = new ListNode(2);
+//		input.next.next = new ListNode(0);
+//		input.next.next.next = new ListNode(-4);
+//		input.next.next.next.next = input.next;
+//		ListNode res = detectCycle(input);
+//		System.out.println(res.val);
+		String[] test = new String[2];
+		int len = test.length;
+		System.out.println(len);
+		
 	}
 	
 	public static ListNode detectCycle(ListNode head) {
