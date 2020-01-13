@@ -9,7 +9,7 @@
 	- [Mergesort](#sort-merge)
 		- [Merge Sort](#sort-merge-basic)
 	- [Quicksort](#sort-quick)
-		- [Quick Sort](#sort-quick-basic)
+		- [Quick Sort]
 
 ### Sorting <a name="sort"></a>
 #### Elementary Sorts <a name="sort-elementary"></a>
